@@ -1,9 +1,3 @@
-/**
- *UC1 Ability to create a payroll service
- * database and have java program
- * connect to database
- */
-
 package emppayroll;
 import java.sql.Connection;
 import java.sql.Driver;
